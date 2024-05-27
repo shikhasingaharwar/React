@@ -14,8 +14,8 @@ if(e.target.id === "green"){
 if(e.target.id === "blue"){
     body.style.backgroundColor="blue";
 }
-if(e.target.id === "red"){
-    body.style.backgroundColor="red";
+if(e.target.id === "Magenta"){
+    body.style.backgroundColor="Magenta";
 }
    
     })
